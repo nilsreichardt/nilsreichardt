@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**AndroidNils/AndroidNils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 19 years old, from Germany and Co-Founder of [Sharezone](https://sharezone.net).
 
-Here are some ideas to get you started:
+#### What is Sharezone?
+Sharezone is a user-friendly all-in-one platform for students, teachers and parents 👨‍🎓 It is simple & quick to set up and allows GDPR-compliant content and messages to be exchanged in the school 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Sharezone Presentation](https://i.ibb.co/9VGvMdk/Presentation-Redesign.png)
+
+#### Download Sharezone
+Android: https://sharezone.net/android<br>
+iOS: https://sharezone.net/ios<br>
+Web: https://sharezone.net/web<br>
+macOS: https://sharezone.net/macos
+
+Note: Sharezone is currently only in German avaviable 😖
