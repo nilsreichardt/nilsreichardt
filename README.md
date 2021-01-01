@@ -15,4 +15,4 @@ macOS: https://sharezone.net/macos
 
 Made with Flutter 💙
 
-_Note:_ Sharezone is currently only in German avaviable 😖
+_Note:_ Sharezone is currently only in German available 😖
