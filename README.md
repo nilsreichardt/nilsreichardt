@@ -13,6 +13,6 @@ iOS: https://sharezone.net/ios<br>
 Web: https://sharezone.net/web<br>
 macOS: https://sharezone.net/macos
 
-Made with Flutter 💙
+Made with [Flutter](https://www.flutter.dev/) 💙
 
-_Note:_ Sharezone is currently only in German available 😖
+_Note:_ Sharezone is currently only available in German 😖
