@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am 19 years old, from Germany and Co-Founder of [Sharezone](https://sharezone.net).
+I am 20 years old, from Germany and Co-Founder of [Sharezone](https://sharezone.net).
 
 #### What is Sharezone?
 Sharezone is a user-friendly all-in-one platform for students, teachers and parents 👨‍🎓 It is simple & quick to set up and allows GDPR-compliant content and messages to be exchanged in the school 👨‍💻
