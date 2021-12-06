@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am 20 years old, from Germany and Co-Founder of [Gatch](https://gatch.fun/app). Before starting Gatch, I co-founded [Sharezone](https://sharezone.net) (+275.000 users bootstrapped).
+I am 20 years old, from Germany and Co-Founder of [Gatch](https://gatch.fun/app). Before starting Gatch, I co-founded [Sharezone](https://sharezone.net) (+300.000 users bootstrapped).
 
 Gatch is a mobile app in which a TikTok-like algorithm creates group voice channels with a Chatroulette-like shuffle mechanism.
 
